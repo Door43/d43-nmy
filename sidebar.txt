@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nmy:home|Door43 (nmy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nmy|d43-nmy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nmy/archive/master.zip|d43-nmy.zip]]
+
+**Recent Changes**
+{{changes>ns = nmy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nmy|Ethnologue data]]
+
